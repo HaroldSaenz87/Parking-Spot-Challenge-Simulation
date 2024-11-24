@@ -1,0 +1,58 @@
+Initial status of nonempty queues
+1 10 9 8 7 6 5 4 3 2 1
+3 8 7 6 5 4 3 2 1
+4 7 6 5 4 3 2 1
+7 9 8 7 6 5 4 3 2 1
+
+After ordering status of nonempty queues
+1 1 2 3 4 5 6 7 8 9 10
+3 1 2 3 4 5 6 7 8
+4 1 2 3 4 5 6 7
+7 1 2 3 4 5 6 7 8 9
+
+Phase1 elimination
+
+Group for Garage# 1
+Student# 3 eliminated
+Student# 6 eliminated
+Student# 9 eliminated
+Student# 2 eliminated
+Student# 7 eliminated
+Student# 1 eliminated
+Student# 8 eliminated
+Student# 5 eliminated
+
+Group for Garage# 3
+Student# 2 eliminated
+Student# 4 eliminated
+Student# 6 eliminated
+Student# 8 eliminated
+Student# 3 eliminated
+Student# 7 eliminated
+Student# 5 eliminated
+
+Group for Garage# 4
+Student# 3 eliminated
+Student# 6 eliminated
+Student# 2 eliminated
+Student# 7 eliminated
+
+Group for Garage# 7
+Student# 2 eliminated
+Student# 4 eliminated
+Student# 6 eliminated
+Student# 8 eliminated
+Student# 1 eliminated
+
+Phase2 elimination
+Eliminated student 4 from group for garage 1
+Eliminated student 10 from group for garage 1
+Eliminated student 3 from group for garage 7
+Eliminated student 5 from group for garage 7
+Eliminated student 7 from group for garage 7
+Eliminated student 9 from group for garage 7
+Eliminated student 1 from group for garage 3
+Eliminated student 1 from group for garage 4
+Eliminated student 4 from group for garage 4
+
+Student 5 from the group for garage 4 is the winner!

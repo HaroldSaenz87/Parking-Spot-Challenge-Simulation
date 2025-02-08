@@ -1,4 +1,4 @@
-/* COP 3502C Assignment 2
+/*
 This program is written by: Harold Saenz */
 
 #include <stdio.h>
